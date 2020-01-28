@@ -17,7 +17,23 @@ Tags (Themes)
 * [Writing](#writing)
 * [Stoicism](#stoicism)
 * [Books](#books)
-* [Project Ideas)(#project-ideas)
+* [Project Ideas](#project-ideas)
 * [Education](#education)
 * [Math](#math)
 * [Productivity](#productivity)
+
+
+<a name="life"></a>Life
+====================
+[The Fall](#albert-camus-fall)
+>"A single sentence will suffice for modern man: he fornicated and read the papers.  After that vigorous definition, the subject will be, if I may say so, exhausted."  pg. 6&7.
+
+
+[The Fall](#albert-camus-fall)
+>"When the body is sad the heart languishes.  It seemed to me that I was unlearning what I had never learned and yet knew so well - how to live."  pg. 42.
+
+
+Books
+===================
+<a name="albert-camus-fall"></a>The Fall - Albert Camus
+> Set in Amsterdam, The Fall consists of a series of dramatic monologues by the self-proclaimed "judge-penitent" Jean-Baptiste Clamence, as he reflects upon his life to a stranger. In what amounts to a confession, Clamence tells of his success as a wealthy Parisian defense lawyer who was highly respected by his colleagues. His crisis, and his ultimate "fall" from grace, was meant to invoke, in secular terms, the fall of man from the Garden of Eden. The Fall explores themes of innocence, imprisonment, non-existence, and truth. 
