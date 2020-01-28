@@ -21,10 +21,14 @@ Tags (Themes)
 * [Education](#education)
 * [Math](#math)
 * [Productivity](#productivity)
+* [Business](#business)
 
 
 <a name="life"></a>Life
 ====================
+
+### Book Notes/Quotes
+
 [The Fall](#albert-camus-fall)
 >"A single sentence will suffice for modern man: he fornicated and read the papers.  After that vigorous definition, the subject will be, if I may say so, exhausted."  pg. 6&7.
 
@@ -32,8 +36,51 @@ Tags (Themes)
 [The Fall](#albert-camus-fall)
 >"When the body is sad the heart languishes.  It seemed to me that I was unlearning what I had never learned and yet knew so well - how to live."  pg. 42.
 
+### Personal Thoughts
 
-Books
+
+<a name="business"></a>Business
 ===================
-<a name="albert-camus-fall"></a>The Fall - Albert Camus
+
+### Book Notes/Quotes
+
+Four Types of Work [The Phoenix Project](#phoenix-project-book)
+1. Business Projects
+2. Internal Projects
+3. Operational Change
+4. Unplanned Work
+
+### Personal Thoughts
+
+Break businesses down in to microservices.  Do this to find potential uncornered markets.
+
+ie
+>"What do businesses want to produce in-house vs. outsource?"
+
+ex
+>A baker doesn't want to produce their own sugar.  A baker merely wants to produce their own baked goods.
+
+<a name="books"></a>Books
+===================
+<a name="albert-camus-fall"></a>*The Fall* - (Albert Camus, 1957)
 > Set in Amsterdam, The Fall consists of a series of dramatic monologues by the self-proclaimed "judge-penitent" Jean-Baptiste Clamence, as he reflects upon his life to a stranger. In what amounts to a confession, Clamence tells of his success as a wealthy Parisian defense lawyer who was highly respected by his colleagues. His crisis, and his ultimate "fall" from grace, was meant to invoke, in secular terms, the fall of man from the Garden of Eden. The Fall explores themes of innocence, imprisonment, non-existence, and truth. 
+
+-[Wikipedia article](https://en.wikipedia.org/wiki/The_Fall_(Camus_novel))
+
+Read this book during the summer of 2019.  It is a short and easy read, only took about two days of light reading to finish.
+I give it a personal rating of 4/10, not the most compelling story and chock-full of monologues.  Original title of this book is *La Chute*.
+
+<a name="zero-to-one"></a>*Zero to One* - (Peter Thiel & Blake Masters, 2014)
+> Zero to One: Notes on Startups, or How to Build the Future is a 2014 book by the American entrepreneur and investor Peter Thiel co-written with Blake Masters. It is a condensed and updated version of a highly popular set of online notes taken by Masters for the CS183 class on startups, as taught by Thiel at Stanford University in Spring 2012.
+
+-[Wikipedia article](https://en.wikipedia.org/wiki/Zero_to_One)
+
+Finished reading this book January 27th 2020.
+
+
+<a name="phoenix-project-book"></a>*The Phoenix Project* - (Gene Kim, Kevin Behr, George Spafford, 2013)
+> In a fast-paced and entertaining style, three luminaries of the DevOps movement deliver a story that anyone who works in IT will recognize. Readers will not only learn how to improve their own IT organizations, they'll never view IT the same way again.
+
+-[Goodreads Article](https://www.goodreads.com/book/show/17255186-the-phoenix-project)
+
+Have yet to finish this book.  Not a big fan of the narrative style.
