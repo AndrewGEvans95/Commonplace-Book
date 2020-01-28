@@ -36,6 +36,14 @@ Tags (Themes)
 [The Fall](#albert-camus-fall)
 >"When the body is sad the heart languishes.  It seemed to me that I was unlearning what I had never learned and yet knew so well - how to live."  pg. 42.
 
+[How to Live](#how-to-live-montaigne)
+
+This book focuses on the life of Michel Eyquem de Montaigne.  Montaigne was a nobleman, government official, winegrower, and mayor of Bordeaux.  He live 1533-1592.  He is credited with inventing the modern essay format.
+A book on how to live a good life - a correct life, a honorable life, but also a fully human, satisfying, and flourishing one.
+> "The idea -- writing about oneself to create a mirror in which other people recongize their own humanity -- has not existed forever.  It had to be invented.  And, unlike many cultureal inventions, it can be traced to a single person: Michel Eyquem de Montaigne..."  pg. 3.
+
+
+
 ### Personal Thoughts
 
 
@@ -81,6 +89,14 @@ Finished reading this book January 27th 2020.
 <a name="phoenix-project-book"></a>*The Phoenix Project* - (Gene Kim, Kevin Behr, George Spafford, 2013)
 > In a fast-paced and entertaining style, three luminaries of the DevOps movement deliver a story that anyone who works in IT will recognize. Readers will not only learn how to improve their own IT organizations, they'll never view IT the same way again.
 
--[Goodreads Article](https://www.goodreads.com/book/show/17255186-the-phoenix-project)
+-[Goodreads article](https://www.goodreads.com/book/show/17255186-the-phoenix-project)
 
 Have yet to finish this book.  Not a big fan of the narrative style.
+
+
+<a name="how-to-live"></a>*How to Live or A Life of Montaigne* - (Sarah Bakewell, 2010)
+> How to Live, or a life of Montaigne in one question and twenty attempts at an answer, by Sarah Bakewell, was published by Chatto & Windus in 2010, and by Other Press on September 20, 2011. It is about the life of 16th century nobleman, wine grower, and essayist Michel Eyquem de Montaigne. In it, Bakewell "roughly maps out Montaigne's life against the questions he raises along the way," drawing the answers to these questions from his Essays.
+
+-[Wikipedia article](https://en.wikipedia.org/wiki/How_to_Live_(biography))
+
+Only two chapters in to this book.  Great book but very dense.
